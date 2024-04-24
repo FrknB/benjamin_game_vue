@@ -1,0 +1,1 @@
+/* YOUR FİREBASE CONFİG */
